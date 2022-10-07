@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Новая папка - Копировать %284%29\" />
+    <Folder Include="Новая папка - Копировать %285%29\" />
+    <Folder Include="Новая папка - Копировать %286%29\" />
+  </ItemGroup>
+
+</Project>
